@@ -27,7 +27,7 @@ Database:MySQL
 
 Installation
 1. Clone the repository
-git clone https://github.com/your-username/employee-management-system.git
+git clone https:https://github.com/Jayesh5553/Employee-Management-System-
 cd employee-management-system
 
 
