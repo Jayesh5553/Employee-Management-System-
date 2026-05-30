@@ -62,11 +62,6 @@ python main.py
 Login using the provided credentials
 Perform CRUD operations and search employees
 
-Screenshots
-
-(Add screenshots of your GUI here)
-
-
 Limitations
 
 Login system uses hardcoded credentials (not secure)
